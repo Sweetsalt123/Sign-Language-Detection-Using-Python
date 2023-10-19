@@ -108,6 +108,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or further assistance, please contact us at [your-email@example.com].
+For questions or further assistance, please contact us at dhruvdhanorkar@gmail.com.
 
 Happy sign language detection!
